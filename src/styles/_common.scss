@@ -1,0 +1,20 @@
+// body {
+//     // padding-top: 70px; //bootstrap
+//     // min-height: 2000px; //bootstrap
+//     // line-height: 170%;
+//     // font-size: 16px;
+//     // font-weight: 400;
+//     // color: $paragraph-color;
+//     // font-family: $font-stack;
+//     // @include middle;
+//     // text-align: center;
+//     // margin: 0 auto;
+//     {
+.inner {
+    min-width: 320px;
+    max-width: 1080px;
+    margin: 0 auto;
+}
+.top-buffer {
+    margin-top: 20px;
+}
